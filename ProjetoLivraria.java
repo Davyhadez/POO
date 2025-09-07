@@ -1,4 +1,5 @@
 //Exercício ultilizando o ProjetoLivraria
+//Classe da atividade 2
 public class ProjetoLivraria {
     public static void main(String[] args) {
         Livro obj1;
@@ -28,3 +29,4 @@ public class ProjetoLivraria {
         System.out.println("Preço do aluguel R$" + obj2.preco);
     }
 }
+
